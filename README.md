@@ -2,7 +2,7 @@
 ### Hi there, I'm [Shital Punde] 👋
 
 ## I'm a Frontend web Developer  !!
-- 🔭 🔭 I’m currently exploring Web Development; 
+- 🔭 I’m currently exploring Web Development; 
 - 🌱 I’m currently learning new skill
 - 📫 How to reach me **shitalpunde0792@gmail.com**
 - 🥅 Contribute more to Open Source projects.
